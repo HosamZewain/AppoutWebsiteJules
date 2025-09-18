@@ -1,0 +1,72 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#hero {
+    background: url('../images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+}
+
+#hero h1 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+#hero p {
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #7f56d9;
+    border-color: #7f56d9;
+}
+
+.btn-primary:hover {
+    background-color: #6941c6;
+    border-color: #6941c6;
+}
+
+#trusted-by {
+    background-color: #f9fafb;
+}
+
+#trusted-by img {
+    height: 40px;
+    margin: 20px;
+    filter: grayscale(100%);
+    opacity: 0.6;
+}
+
+#features h2 {
+    font-weight: 700;
+}
+
+#features h4 {
+    font-weight: 600;
+}
+
+#testimonials {
+    background-color: #f9fafb;
+}
+
+#pricing h2 {
+    font-weight: 700;
+}
+
+footer {
+    background-color: #1d2939;
+}
+
+footer h5 {
+    font-weight: 600;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
